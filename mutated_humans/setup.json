@@ -46,7 +46,7 @@
 ],
 "target_monsters": 
 [
-	{"name":"Mutated Human", "action":"follow", "loot":true},
+	{"name":"Nomad", "action":"follow", "loot":true},
 	{"name":"Mutated Rat", "action":"follow", "loot":true},
 	{"name":"Mercury Blob", "action":"follow", "loot":true},
 	{"name":"Slime", "action":"follow", "loot":false}
